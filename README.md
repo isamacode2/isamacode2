@@ -26,11 +26,14 @@
 📜 **My Resume:** [View Resume](https://docs.google.com/document/d/1NPKpwt52ISSCAPnpHFE6Zp_PyeEEhe2I/edit?usp=sharing&ouid=110699276151354879504&rtpof=true&sd=true)
 
 
----
+
 
 🔭 **I'm currently working on:** Enhancing security measures and reducing cybersecurity risks. I've improved process efficiency at Amazon UK and developed strategies to mitigate security threats at the Cybersecurity Fusion Team / University of South Wales.
 
-📚 **About Me:** 🛡️ Meet John Adole Isama: Your Cybersecurity Shield
+📚 **About Me:** 
+---
+
+🛡️ Meet John Adole Isama: Your Cybersecurity Shield
 
 In an era where digital threats loom large and security breaches are inevitable, my role goes beyond mere defense. I am John Adole Isama, a virtuoso in Applied Cybersecurity, evolving from a traditional safeguard to a visionary tactician in the battle against cyber adversaries.
 
@@ -41,7 +44,24 @@ But I am more than a protector of information; I am its stalwart defender, a cru
 Embark with me on a journey toward fortified digital landscapes.
 
 
----
 
 🎯 **Open to Work:** Actively seeking new opportunities in cybersecurity where I can apply my skills in threat analysis, risk assessment, and incident response to protect digital environments.
+
+🌟 **Value I Contribute**
+
+- **Strategic Cybersecurity Implementation:** With a proven ability to resolve critical cyber-attacks within stringent timelines, I bring to the table a tactical approach to digital security, substantially reducing risk percentages through strategic policy development and implementation.
+
+- **Advanced Technical Proficiency:** My hands-on experience in managing complex AWS and Azure environments ensures the deployment of robust security measures. I'm well-versed in cryptographic security, optimizing SIEM systems, and leveraging AI for enhanced threat detection accuracy.
+
+- **System Integrity and Compliance:** I have a track record of reinforcing system integrity across various operating systems, with a particular emphasis on Linux security. My implementations of firewall technologies have been pivotal in regulating network traffic and maintaining system compliance.
+
+- **Performance Enhancement:** My role in improving SOC incident response has led to significant reductions in mean time to detect (MTTD) and improvements in mean time to respond (MTTR), streamlining the incident management process.
+
+- **Risk Mitigation and Operational Efficiency:** I have demonstrated success in conducting comprehensive security risk assessments leading to a reduction in potential risks, while also boosting daily productivity metrics in operational roles.
+
+- **Collaborative Leadership:** Recognized for my problem-solving acumen and my ability to collaborate effectively across teams, I excel in creating a safe digital environment that enhances customer satisfaction and fosters cross-functional teamwork.
+
+- **Continuous Learning and Growth:** I am committed to continuous professional development, staying ahead of the cyber curve, and am currently preparing for the CompTIA Security+ exam to further solidify my expertise.
+
+- **Communication and Service Excellence:** With a flair for articulate communication and a customer-first mindset, I ensure that every project I handle meets the highest standards of customer service and satisfaction.
 
