@@ -12,7 +12,8 @@
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/john-isama/) | [Email](mailto:John@isamahub.com)
 
-📜 **My Resume:** [View Resume](#)
+📜 **My Resume:** [View Resume](https://docs.google.com/document/d/1NPKpwt52ISSCAPnpHFE6Zp_PyeEEhe2I/edit?usp=sharing&ouid=110699276151354879504&rtpof=true&sd=true)
+
 
 ---
 
