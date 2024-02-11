@@ -3,12 +3,23 @@
 [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:John@isamahub.com)
 
 🛠️ **Skills**
+
 - **Core Competencies:** Cyber Threat Analysis, Network Security, Malware Analysis, Digital Forensics, Risk Assessment, Penetration Testing, Cybersecurity Policy Development, SIEM, Ethical Hacking, Vulnerability Management, Cloud Security, SOC Operations.
-- **Technical Skills:** Proficient in SQL, familiar with AWS and Azure, adept at applying cryptographic principles, skilled in utilizing SIEM tools for threat detection, and knowledgeable in firewall technologies like Palo Alto Networks and Cisco ASA.
-- **Operating Systems:** Experienced in managing Linux systems and ensuring their security.
-- **Soft Skills:** Strong problem-solving capabilities, excellent customer service, and communication skills.
+
+- **Tools and Technologies:** Proficient with Burpsuite, Wireshark, SIEM, Metasploit, Nmap, Nessus, Github, Netsparker, MS Office Suite. Experienced with AWS, Azure, and applying cryptographic principles. Programming Languages: Python, Java, SQL, HTML, PHP, CSS.
+
+- **Operating Systems:** Experienced in managing Linux systems and ensuring their security. Also well-versed in Kali Linux, Windows, MacOS, Ubuntu, Android, iOS.
+
+- **Frameworks:** Knowledgeable in NIST, MITRE ATT&CK, CIS, ISO, GDPR.
+
+- **Databases:** Skilled in SQL, with experience in Microsoft Access, MySQL.
+
+- **Soft Skills:** Strong problem-solving capabilities, excellent customer service, and effective communication skills.
+  
+
 
 🌱 **Currently Learning:** Preparing for the CompTIA Security+ exam to further enhance my cybersecurity expertise.
+
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/john-isama/) | [Email](mailto:John@isamahub.com)
 
@@ -19,9 +30,16 @@
 
 🔭 **I'm currently working on:** Enhancing security measures and reducing cybersecurity risks. I've improved process efficiency at Amazon UK and developed strategies to mitigate security threats at the Cybersecurity Fusion Team / University of South Wales.
 
-📚 **About Me:** I'm John Adole Isama, a cybersecurity sentinel with a Master's in Applied Cybersecurity. I specialize in erecting robust digital defenses and developing proactive measures for organizations. With a strategic mindset honed through real-world experience, I am adept at preempting cyber threats and safeguarding critical data.
+📚 **About Me:** 🛡️ Meet John Adole Isama: Your Cybersecurity Shield
 
-In an era where cyber incursions are inevitable, I stand as the strategist who can bolster your company's defenses against the most cunning of digital threats. Let's join forces to advance your cybersecurity front.
+In an era where digital threats loom large and security breaches are inevitable, my role goes beyond mere defense. I am John Adole Isama, a virtuoso in Applied Cybersecurity, evolving from a traditional safeguard to a visionary tactician in the battle against cyber adversaries.
+
+Envision a digital bastion, its fortifications unassailable, its portals steadfast. This is the caliber of cyber defense I architect—a haven in the tumultuous realm of the internet. My toolkit is brimming with prestigious degrees, esteemed certifications, and direct triumphs against cyber adversaries.
+
+But I am more than a protector of information; I am its stalwart defender, a crusader equipped with the strategic foresight of a leader and the sharp acumen of a hacker. For the entities I ally with, I stand as a lighthouse of security in the perilous waters of the digital world.
+
+Embark with me on a journey toward fortified digital landscapes.
+
 
 ---
 
