@@ -28,7 +28,7 @@
 
 
 
-🔭 **I'm currently working on:** Enhancing security measures and reducing cybersecurity risks. I've improved process efficiency at Amazon UK and developed strategies to mitigate security threats at the Cybersecurity Fusion Team / University of South Wales.
+🔭 **I'm currently working on:** Enhancing security measures and reducing cybersecurity risks. I've improved process efficiency at Amazon UK and developed strategies to mitigate security threats at Sudo Business Ltd as a Cybersecurity Fusion Team at University of South Wales Newport.
 
 📚 **About Me:** 
 ---
