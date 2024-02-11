@@ -16,19 +16,22 @@
 
 - **Soft Skills:** Strong problem-solving capabilities, excellent customer service, and effective communication skills.
   
-
+<br />
 
 🌱 **Currently Learning:** Preparing for the CompTIA Security+ exam to further enhance my cybersecurity expertise.
 
+<br />
 
 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/john-isama/) | [Email](mailto:John@isamahub.com)
 
 📜 **My Resume:** [View Resume](https://docs.google.com/document/d/1NPKpwt52ISSCAPnpHFE6Zp_PyeEEhe2I/edit?usp=sharing&ouid=110699276151354879504&rtpof=true&sd=true)
 
-
+<br />
 
 
 🔭 **I'm currently working on:** Enhancing security measures and reducing cybersecurity risks. I've improved process efficiency at Amazon UK and developed strategies to mitigate security threats at Sudo Business Ltd as a Cybersecurity Fusion Team at University of South Wales Newport.
+
+<br />
 
 📚 **About Me:** 
 ---
