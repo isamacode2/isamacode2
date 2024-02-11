@@ -20,8 +20,8 @@
 <br />
 
 🌱 **Currently Learning:** Preparing for the CompTIA Security+ exam to further enhance my cybersecurity expertise.
-🔭 **Current Focus:**
-I am dedicated to enhancing security measures and reducing cybersecurity risks.
+
+🔭 **Current Focus:** I am dedicated to enhancing security measures and reducing cybersecurity risks.
 
 <br />
 <br />
